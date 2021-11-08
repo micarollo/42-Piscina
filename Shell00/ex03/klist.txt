@@ -1,0 +1,5 @@
+Credentials cache: API:27566C1F-CA18-46E9-ACE3-EF6F1675A4A9
+        Principal: mrollo@42BARCELONA.COM
+
+  Issued                Expires               Principal
+Oct 25 12:01:07 2021  Oct 25 22:01:07 2021  krbtgt/42BARCELONA.COM@42BARCELONA.COM
